@@ -1,6 +1,7 @@
 ### Mac Stuff
 .Icon
 .DS_Store
+
 ### TCGA Data
 GDCdata
 MANIFEST*
